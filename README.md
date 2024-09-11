@@ -17,7 +17,7 @@ This is a PWA that allows users to install and edit text in a local browser.
 
 ## Installation
 
-Going to the deployed site here there will be a button that says install. Once install is clicked it will be installed.
+Going to the deployed site [here](https://pwa-text-editor-d6s6.onrender.com) there will be a button that says install. Once install is clicked it will be installed.
 
 ## Usage
 
